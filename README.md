@@ -2,7 +2,7 @@
 
 📚 Software Engineering at Afeka.
 
-I'm a Software Engineering Student, who likes music(have been playing guitar for about 8 years), video games, anime and enthusiastic about technology, but really lazy.
+I'm a Software Engineere, who likes music (have been playing guitar for about 10 years), video games, anime and enthusiastic about technology, but really lazy.
 `¯\_(ツ)_/¯`
 
 ### Skills:
@@ -40,5 +40,3 @@ I'm a Software Engineering Student, who likes music(have been playing guitar for
 ### Contact Info:
 
 Email: yarintop2@gmail.com
-
-Resume: [Link](https://drive.google.com/file/d/1KR1_ky60MPreSUlMfSNzqpkc26pc1uaQ/view?usp=sharing)
