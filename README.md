@@ -1,8 +1,6 @@
 ### My name is `Yarin London`.
 
-📚 Software Engineering at Afeka.
-
-I'm a Software Engineere, who likes music (have been playing guitar for about 10 years), video games, anime and enthusiastic about technology, but really lazy.
+I'm a Software Engineer, who likes music (have been playing guitar for about 10 years), video games, anime and enthusiastic about technology.
 `¯\_(ツ)_/¯`
 
 ### Skills:
